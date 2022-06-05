@@ -1,0 +1,25 @@
+name: ub4d
+channels:
+  - pytorch-lts
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy=1.19
+  - cudatoolkit=11.1
+  - pytorch=1.8.2
+  - torchvision=0.9.2
+  - rtree=0.9
+  - tensorboard=2.5
+  - trimesh
+  - imageio
+  - tqdm
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - pip=21.0
+  - pip:
+    - opencv_python==4.5.2
+    - pyhocon
+    - pymcubes==0.1
+    - pyrender==0.1
