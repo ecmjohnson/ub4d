@@ -290,7 +290,7 @@ Unfortunately, results from the paper or results given in this README are not di
 	title={Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model}, 
 	author={Erik C.M. Johnson and Marc Habermann and Soshi Shimada and Lingjie Liu and Vladislav Golyanik and Christian Theobalt},
 	year={2022},
-	journal={arxiv}
+	journal={arXiv:2206.08368}
 }
 ```
 
