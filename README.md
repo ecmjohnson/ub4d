@@ -1,6 +1,12 @@
 # **Ub4D** 
-## [🌐Project Page](https://4dqv.mpi-inf.mpg.de/Ub4D/) | [📝Paper](https://arxiv.org/pdf/2206.08368.pdf) | [🎥Video](https://youtu.be/uu3ueYgsHxE) | [💾Data](https://drive.google.com/drive/folders/1lFhLqeNjslqgIuRpQnUlHbd5-56vaDNE?usp=sharing)
-We propose a novel approach to the problem of non-rigid surface reconstruction through the use of a deformable neural implicit scene model and a rendering method that is provably unbiased to the object surface, even for bent rays. Our method, called Ub4D, is described in the paper **Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model**.
+## ArXiv 2022 | [🌐Project Page](https://4dqv.mpi-inf.mpg.de/Ub4D/) | [📝Paper](https://arxiv.org/pdf/2206.08368.pdf) | [🎥Video](https://youtu.be/uu3ueYgsHxE) | [💾Data](https://drive.google.com/drive/folders/1lFhLqeNjslqgIuRpQnUlHbd5-56vaDNE?usp=sharing)
+We propose a novel approach to the problem of non-rigid surface reconstruction through the use of a deformable neural implicit scene model and a rendering method that is provably unbiased to the object surface, even for bent rays. Our method, called Ub4D, is described in the paper **Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model**. <br>
+[Erik C.M. Johnson](https://www.ecmjohnson.com/)<sup>1,2</sup>,
+[Marc Habermann](https://people.mpi-inf.mpg.de/~mhaberma/)<sup>1</sup>,
+[Soshi Shimada](https://people.mpi-inf.mpg.de/~sshimada/)<sup>1</sup>,
+[Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik/)<sup>1</sup>
+[Christian Theobalt](http://people.mpi-inf.mpg.de/~theobalt/)<sup>1</sup> <br>
+<sup>1</sup>MPI Informatics, <sup>2</sup>Saarland Informatics Campus
 
 ![](imgs/realcactus.gif)
 
