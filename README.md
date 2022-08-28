@@ -22,7 +22,7 @@ git clone https://github.com/ecmjohnson/Ub4D.git
 cd Ub4D
 ```
 
-Download the data and place it in a folder named `public_data` within the repo. The data location is specified in the configuration file `data_dir` under `dataset` (i.e. `./public_data/CASE_NAME/` for the provided configs). For running the provided configs, the pathing should be:
+Download [the data](https://drive.google.com/drive/folders/1lFhLqeNjslqgIuRpQnUlHbd5-56vaDNE?usp=sharing) and place it in a folder named `public_data` within the repo. The data location is specified in the configuration file `data_dir` under `dataset` (i.e. `./public_data/CASE_NAME/` for the provided configs). For running the provided configs, the pathing should be:
 ```
 Ub4D
 |-- public_data
